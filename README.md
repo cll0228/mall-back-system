@@ -1,3 +1,8 @@
+#系统访问链接：http://124.222.9.138:8081/，专业定制毕业设计，微信号LL_aisi
+![微信截图_20221031203656](https://user-images.githubusercontent.com/17566539/199009702-c8926a56-afd2-438b-9df4-e193ea057694.png)
+![微信截图_20221031203717](https://user-images.githubusercontent.com/17566539/199009710-a5efd0ae-b570-4f31-962d-adbd604ce737.png)
+![微信截图_20221031203801](https://user-images.githubusercontent.com/17566539/199009717-ec9da044-9640-4ca0-991b-f667bddb60b3.png)
+
 后台管理系统模板 springboot+layui+mysql
 ![微信截图_20221031182742](https://user-images.githubusercontent.com/17566539/199003348-5bfdfbf4-4f6c-41d3-907d-69b07c4338f1.png)
 ![微信截图_20221031182757](https://user-images.githubusercontent.com/17566539/199003356-f44f1d20-71c0-4e94-a59f-f3308b936c4f.png)
