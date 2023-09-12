@@ -1,4 +1,4 @@
-#成品项目展示链接：http://124.222.9.138:8081/
+#成品项目展示链接：http://175.24.229.44:8081/
 专业定制毕业设计，微信号LL_aisi
 ![微信截图_20221031203656](https://user-images.githubusercontent.com/17566539/199009702-c8926a56-afd2-438b-9df4-e193ea057694.png)
 ![微信截图_20221031203717](https://user-images.githubusercontent.com/17566539/199009710-a5efd0ae-b570-4f31-962d-adbd604ce737.png)
